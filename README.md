@@ -1,0 +1,1 @@
+Simple script that gets the New Highs - New Lows for OMXS30 (or potentially other lists of stocks), sends the results to a selected list of users using a discord bot.
